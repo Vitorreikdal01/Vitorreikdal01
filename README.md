@@ -18,7 +18,9 @@ Atualmente estou aprendendo a aplicar as linguagens no dia a dia.
 
 - Python
 - SQL
-- HTML e CSS 
+- Java
+- Mongodb
+- JSON 
 - Excel   
 
 ---
