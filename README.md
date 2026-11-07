@@ -2,12 +2,12 @@
 <h1 align="center">Vitor Reikdal</h1>
 
 <h3 align="center">
-  Desenvolvedor em formação | Java • Python • Back-end
+  Desenvolvedor em formação | Java • Python • SQL
 </h3>
 
 <p align="center">
   Estudante de Tecnologia da Informação na Fundação Bradesco,
-  interessado em desenvolvimento de software e soluções tecnológicas.
+  interessado em desenvolvimento de software e CyberSecurity.
 </p>
 
 ---
