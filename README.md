@@ -1,37 +1,59 @@
-Vitor Reikdal
-Back-end Developer in Progress
 
-Java • Python • SQL • Spring Boot
+<h1 align="center">Vitor Reikdal</h1>
 
-ABOUT ME
+<h3 align="center">
+  Desenvolvedor em formação | Java • Python • Back-end
+</h3>
 
-IT student focused on software development, back-end technologies and database management. Always learning and building practical projects.
+<p align="center">
+  Estudante de Tecnologia da Informação na Fundação Bradesco,
+  interessado em desenvolvimento de software e soluções tecnológicas.
+</p>
 
-TECHNOLOGIES
-Java
-Python
-Spring Boot
-SQL Server
-MongoDB
-Git
+---
 
+## Sobre mim
 
-CURRENT PROJECT
+Sou estudante de Ensino Médio Técnico em Tecnologia da Informação pela Fundação Bradesco, com foco no desenvolvimento de software e interesse especial na área de back-end.
 
-E-commerce de Roupas Personalizadas — Java, Spring Boot e SQL Server.
+Tenho conhecimentos em Java, Python e SQL, que venho aprimorando por meio de estudos e projetos práticos.
 
-CONNECT WITH ME
+Gosto de explorar novas tecnologias, desenvolver soluções e aprofundar meus conhecimentos em programação, sempre buscando evoluir técnica e profissionalmente.
 
-GitHub • LinkedIn
+Atualmente, estou direcionando meus estudos para Java, Spring Boot, desenvolvimento de APIs e gerenciamento de bancos de dados.
 
+---
 
-<div style="display: inline_block"><br>
- 
-  <img align="center" alt="vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="vitor-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"">
-  <img align="center" alt="vitor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="vitor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="vitor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg">
-  
-</div>
-  
+## Tecnologias e ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,spring,mysql,mongodb,firebase,git,github,vscode" />
+</p>
+
+---
+
+## Projeto em destaque
+
+### E-commerce de Roupas Personalizadas
+
+Aplicação de comércio eletrônico desenvolvida utilizando:
+
+- Java
+- Spring Boot
+- SQL Server
+
+O projeto contempla o gerenciamento de clientes, vendedores e produtos, além de operações de cadastro, consulta, atualização e exclusão.
+
+---
+
+## Contato
+
+<p align="center">
+  <a href="https://github.com/Vitorreikdal01" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vitor-eduardo-reikdal-a70010415/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
