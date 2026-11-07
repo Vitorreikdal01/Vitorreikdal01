@@ -1,33 +1,45 @@
-# Olá, eu sou o Vitor 👋
+Vitor Reikdal
 
-🎓 Estudante e entusiasta de tecnologia (15 anos)  
-💻 Focado em aprender novas linguagens 
-🚀 Construindo meus primeiros projetos e evoluindo todos os dias  
+Desenvolvedor em formação | Back-end Development | Java & Python
 
----
+Estudante de Ensino Médio Técnico em Tecnologia da Informação pela Fundação Bradesco, com foco em desenvolvimento de software e tecnologias back-end.
 
-## 👨‍💻 Sobre mim
+Tenho conhecimentos em Java, Python e SQL, além de experiência acadêmica com desenvolvimento de aplicações, integração com bancos de dados e construção de APIs.
 
-Sou estudante apaixonado por tecnologia e desenvolvimento.  
-Atualmente estou aprendendo a aplicar as linguagens no dia a dia.
+Atualmente, busco aprofundar meus conhecimentos em desenvolvimento back-end, arquitetura de aplicações e engenharia de software, sempre aplicando o aprendizado em projetos práticos.
 
+TECH STACK
 
----
+Languages
 
-## 📚 Tecnologias que estou aprendendo
+Java
 
-- Python
-- SQL
-- Java
-- Mongodb
-- JSON 
-- Excel   
+Python
 
----
+SQL
 
-## 🎯 Objetivo
+Back-end
 
-Continuar evoluindo na área de tecnologia e futuramente atuar como Desenvolvedor.
+Spring Boot
+
+APIs REST
+
+Databases
+
+SQL Server
+
+MongoDB
+
+Firebase Realtime Database
+
+Tools
+
+Git
+
+GitHub
+
+Visual Studio Code
+
 
 <div style="display: inline_block"><br>
  
