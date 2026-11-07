@@ -1,44 +1,28 @@
 Vitor Reikdal
+Back-end Developer in Progress
 
-Desenvolvedor em formação | Back-end Development | Java & Python
+Java • Python • SQL • Spring Boot
 
-Estudante de Ensino Médio Técnico em Tecnologia da Informação pela Fundação Bradesco, com foco em desenvolvimento de software e tecnologias back-end.
+ABOUT ME
 
-Tenho conhecimentos em Java, Python e SQL, além de experiência acadêmica com desenvolvimento de aplicações, integração com bancos de dados e construção de APIs.
+IT student focused on software development, back-end technologies and database management. Always learning and building practical projects.
 
-Atualmente, busco aprofundar meus conhecimentos em desenvolvimento back-end, arquitetura de aplicações e engenharia de software, sempre aplicando o aprendizado em projetos práticos.
-
-TECH STACK
-
-Languages
-
+TECHNOLOGIES
 Java
-
 Python
-
-SQL
-
-Back-end
-
 Spring Boot
-
-APIs REST
-
-Databases
-
 SQL Server
-
 MongoDB
-
-Firebase Realtime Database
-
-Tools
-
 Git
 
-GitHub
 
-Visual Studio Code
+CURRENT PROJECT
+
+E-commerce de Roupas Personalizadas — Java, Spring Boot e SQL Server.
+
+CONNECT WITH ME
+
+GitHub • LinkedIn
 
 
 <div style="display: inline_block"><br>
